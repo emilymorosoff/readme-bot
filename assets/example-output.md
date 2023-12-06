@@ -15,7 +15,7 @@
 This Node.js command-line application dynamically generates a professional README.md file for your projects.
 
 ## Installation
-Run `npm init -y` to quickly set up a package.json file with default values.
+Run `npm init -y` to quickly set up a package.json file with default values and install the necessary dependencies by running `npm install inquirer@8.2.4`.
 
 ## Usage
 Run `node index.js`.
